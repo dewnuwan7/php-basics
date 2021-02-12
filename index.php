@@ -25,4 +25,6 @@
 
     ?> -->
 <button type= "button" class="btn btn-primary">CLICK ME!</button>
+<button type= "button" class="btn btn-primary">CLICK ME!</button>
+<button type= "button" class="btn btn-primary">CLICK ME!</button>
     <?php require 'snippets/footer.php'?>
